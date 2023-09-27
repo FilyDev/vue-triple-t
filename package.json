@@ -1,0 +1,31 @@
+{
+  "name": "vue-triple-t",
+  "version": "1.1.2",
+  "description": "A simple and customizable Tic-Tac-Toe game built with Vue.js 3",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FilyDev/vue-triple-t.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "vue.js",
+    "tic-tac-toe",
+    "vue-triple-t",
+    "triple-t",
+    "vue-morpion",
+    "morpion",
+    "game"
+  ],
+  "author": "Fily",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FilyDev/vue-triple-t/issues"
+  },
+  "homepage": "https://github.com/FilyDev/vue-triple-t#readme",
+  "dependencies": {
+    "vue": "^3.3.4",
+    "vue-i18n": "^9.4.1"
+  }
+}
